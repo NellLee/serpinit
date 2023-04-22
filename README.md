@@ -1,4 +1,4 @@
-# serpinint
+# serpinit
 
 ## Project setup
 ```
